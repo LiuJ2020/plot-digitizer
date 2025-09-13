@@ -4,6 +4,10 @@ A web app that takes in images of plots and attempts to estimate the values asso
 # Setup Instructions:
 
 ### Python Setup:
+0. Enter your backend folder:
+   ```bash
+   cd backend/
+   ```
 1. Make a virtual environment:
    ```bash
    python3 -m venv venv
